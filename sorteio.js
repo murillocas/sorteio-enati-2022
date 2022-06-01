@@ -1,5 +1,7 @@
-function sortear() {
-    fetch("teste2222.json")
+var links = ["teste2222.json","abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json"]
+
+function sortear(arquivo) {
+    fetch(arquivo)
         .then(response => {
             return response.json();
         })
@@ -23,4 +25,8 @@ function sortear() {
         })
 }
 
-sortear();
+console.log(links)
+function controlaSorteio(sala){
+        sortear(links[sala])  
+}
+controlaSorteio(0)
