@@ -5,11 +5,12 @@ const sala = urlParams.get('id');
 
 
 var links = ["abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json"]
-
+var nomelinks = ["abertura" ,"Introdução ao Latex","Instalação de sistemas Operacionais","Entendendo GitHub","Amostra de robotica"]
 const nomeGanhador = document.getElementById('nome-ganhador');
 const botaoSorteio = document.getElementById('sortear');
 const emailGanhador = document.getElementById('email');
-
+const nomecurso = document.getElementById('nome-curso');
+nomecurso.innerHTML = nomelinks[sala]
 
 var nome = "";
 var email = "";
