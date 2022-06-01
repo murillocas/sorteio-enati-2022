@@ -10,7 +10,10 @@ const nomeGanhador = document.getElementById('nome-ganhador');
 const botaoSorteio = document.getElementById('sortear');
 const emailGanhador = document.getElementById('email');
 const nomecurso = document.getElementById('nome-curso');
-nomecurso.innerHTML = nomelinks[sala]
+
+
+     nomecurso.innerHTML = nomelinks[sala]
+
 
 var nome = "";
 var email = "";
