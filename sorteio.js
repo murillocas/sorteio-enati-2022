@@ -4,7 +4,7 @@ const sala = urlParams.get('id');
 
 
 
-var links = ["abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json"]
+var links = ["abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json"] 
 var nomelinks = ["abertura" ,"Introdução ao Latex","Instalação de sistemas Operacionais","Entendendo GitHub","Mostra de robotica"]
 const nomeGanhador = document.getElementById('nome-ganhador');
 const botaoSorteio = document.getElementById('sortear');
