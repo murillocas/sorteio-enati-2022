@@ -17,8 +17,8 @@ def make_json(csvFilePath, jsonFilePath):
 
 
 
-csvFilePath = r'introduçãoaNodeJS.csv'
-jsonFilePath = r'introduçãoaNodeJS.json'
+csvFilePath = r'introducaoaNodeJS.csv'
+jsonFilePath = r'introducaoaNodeJS.json'
 make_json(csvFilePath, jsonFilePath)
 
 csvFilePath = r'comoMelhorarSeuNegocio.csv'
