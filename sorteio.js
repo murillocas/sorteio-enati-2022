@@ -6,7 +6,7 @@ const sala = urlParams.get('id');
 
 var links = ["abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json","introducaoaNodeJS.json","comoMelhorarSeuNegocio.json","fotografiaAudioVisual.json","hospedagemDeSite.json","recomendaçãoDeMusica.json","games.json","porqueFazerCursoDeComputacao.json"] 
 
-var nomelinks = ["abertura" ,"Introdução ao Latex","Instalação de sistemas Operacionais","Entendendo GitHub","Mostra de robotica","Introdução a Node.JS","Como melhorar seu negócio utilizando redes sociais","Fotografia Audiovisual \"A importância do Olhar na Construção de Narrativas\" ","Hospedagem de sites utilizando Amazon AWS S3","Recomendação de música considerando o estado emocional do usuário","Mundo dos Games","Por que fazer um curso de Computação?"]
+var nomelinks = ["Abertura" ,"Introdução ao Latex","Instalação de sistemas Operacionais","Entendendo GitHub","Mostra de robótica","Introdução a Node.JS","Como melhorar seu negócio utilizando redes sociais","Fotografia Audiovisual \"A importância do Olhar na Construção de Narrativas\" ","Hospedagem de sites utilizando Amazon AWS S3","Recomendação de música considerando o estado emocional do usuário","Mundo dos Games","Por que fazer um curso de Computação?"]
 const nomeGanhador = document.getElementById('nome-ganhador');
 const botaoSorteio = document.getElementById('sortear');
 const emailGanhador = document.getElementById('email');
@@ -18,12 +18,17 @@ const nomecurso = document.getElementById('nome-curso');
 var nome = "";
 var email = "";
 
-nomeGanhador.innerHTML = "Clique no botão abaixo para sortear um nome!";
+nomeGanhador.innerHTML = "Selecione um curso acima para sortear!";
+
+if(sala != null){
+    nomecurso.innerHTML = nomelinks[sala];
+}
 
 
 botaoSorteio.addEventListener('click',()=>{
 
     sortear(links[sala])
+    
 
 })
 
@@ -57,7 +62,7 @@ function sortear(arquivo) {
 
           nomeGanhador.innerHTML = nome;
           emailGanhador.innerHTML = email;
-
+            
         
            
         })
@@ -65,12 +70,12 @@ function sortear(arquivo) {
        
 }
 
-console.log(nome)
+//console.log(nome)
 
 
 //console.log(links)
-function controlaSorteio(sala){
-        console.log(sortear(links[sala]) )
-}
+//function controlaSorteio(sala){
+ //       console.log(sortear(links[sala]) )
+//}
 
 
