@@ -22,6 +22,7 @@ nomeGanhador.innerHTML = "Selecione um curso acima para sortear!";
 
 if(sala != null){
     nomecurso.innerHTML = nomelinks[sala];
+    nomeGanhador.innerHTML = "clique no botão abaixo para sortear!";
 }
 
 
