@@ -13,12 +13,12 @@ const emailGanhador = document.getElementById('email');
 const nomecurso = document.getElementById('nome-curso');
 
 
-     nomecurso.innerHTML = nomelinks[sala]
 
 
 var nome = "";
 var email = "";
 
+nomeGanhador.innerHTML = "Clique no botão abaixo para sortear um nome!";
 
 
 botaoSorteio.addEventListener('click',()=>{
