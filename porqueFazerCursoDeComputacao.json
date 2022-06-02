@@ -1,0 +1,476 @@
+{
+    "0": {
+        "ID": "3920",
+        "Inscrito": "05844536126",
+        "Nome": "SEBASTI\\XC3\\XA3O VIEIRA DA SILVA NETO",
+        "E-mail": "sebastiao.neto@estudante.ifgoiano.edu.br"
+    },
+    "1": {
+        "ID": "4020",
+        "Inscrito": "08807122103",
+        "Nome": "NICOLE ALVES RODRIGUES",
+        "E-mail": "nicole.rodrigues@estudante.ifgoiano.edu.br"
+    },
+    "2": {
+        "ID": "4060",
+        "Inscrito": "05310491163",
+        "Nome": "KAMYLLE ALVES MENDON\\XC3\\XA7A",
+        "E-mail": "kamylle.alves@estudante.ifgoiano.edu.br"
+    },
+    "3": {
+        "ID": "4062",
+        "Inscrito": "03402581108",
+        "Nome": "S\\XC3\\XA2MELA NUNES TAVEIRA DE MATOS",
+        "E-mail": "samela.matos@estudante.ifgoiano.edu.br"
+    },
+    "4": {
+        "ID": "4066",
+        "Inscrito": "09537706133",
+        "Nome": "EDUARDO ANTONIO DE OLIVEIRA",
+        "E-mail": "eduardo.antonio@estudante.ifgoiano.edu.br"
+    },
+    "5": {
+        "ID": "4067",
+        "Inscrito": "71120140188",
+        "Nome": "VITOR HIAGO MOREIRA DA SILVA",
+        "E-mail": "vitor.moreira@estudante.ifgoiano.edu.br"
+    },
+    "6": {
+        "ID": "4087",
+        "Inscrito": "03054937100",
+        "Nome": "MARIA EDUARDA RIBEIRO DA SILVA MARQUES",
+        "E-mail": "maria.ribeiro1@estudante.ifgoiano.edu.br"
+    },
+    "7": {
+        "ID": "4123",
+        "Inscrito": "04124948174",
+        "Nome": "GIOVANNA GOMES LAUREANO",
+        "E-mail": "giovanna.laureano@estudante.ifgoiano.edu.br"
+    },
+    "8": {
+        "ID": "4313",
+        "Inscrito": "06602000152",
+        "Nome": "GABRIELLY MORAES SANTOS",
+        "E-mail": "gabrielly.moraes@estudante.ifgoiano.edu.br"
+    },
+    "9": {
+        "ID": "4320",
+        "Inscrito": "09016116117",
+        "Nome": "ALICE FALEIRO NAVES BLAMIRES",
+        "E-mail": "alice.blamires@estudante.ifgoiano.edu.br"
+    },
+    "10": {
+        "ID": "4485",
+        "Inscrito": "04725612197",
+        "Nome": "LINDOMAR BATISTA DE FREITAS JUNIOR",
+        "E-mail": "lindomar.batista@estudante.ifgoiano.edu.br"
+    },
+    "11": {
+        "ID": "4534",
+        "Inscrito": "71133572103",
+        "Nome": "LUCAS FERNANDO LOPES DE CARVALHO",
+        "E-mail": "lucas.fernando@estudante.ifgoiano.edu.br"
+    },
+    "12": {
+        "ID": "4535",
+        "Inscrito": "04135070175",
+        "Nome": "GABRIEL FERNANDO FERREIRA LIMA CAMPOS",
+        "E-mail": "gabriel.fernando@estudante.ifgoiano.edu.br"
+    },
+    "13": {
+        "ID": "4550",
+        "Inscrito": "04202268180",
+        "Nome": "HANIEL RODRIGUES OLIVEIRA",
+        "E-mail": "haniel.rodrigues@estudante.ifgoiano.edu.br"
+    },
+    "14": {
+        "ID": "4740",
+        "Inscrito": "71155374100",
+        "Nome": "WHENDERSON V\u00cdTOR ALVES ROQUE",
+        "E-mail": "whenderson.roque@estudante.ifgoiano.edu.br"
+    },
+    "15": {
+        "ID": "4818",
+        "Inscrito": "08082026189",
+        "Nome": "KAIQUE CRUVINEL CARVALHO",
+        "E-mail": "kaique.carvalho@estudante.ifgoiano.edu.br"
+    },
+    "16": {
+        "ID": "4821",
+        "Inscrito": "04620442038",
+        "Nome": "JO\\XC3\\XA3O PEDRO PEREIRA",
+        "E-mail": "joao.pereira2@estudante.ifgoiano.edu.br"
+    },
+    "17": {
+        "ID": "4828",
+        "Inscrito": "06099257179",
+        "Nome": "TAYNAN DO CARMO SILVA",
+        "E-mail": "taynan.carmo@estudante.ifgoiano.edu.br"
+    },
+    "18": {
+        "ID": "4872",
+        "Inscrito": "09684777124",
+        "Nome": "THIAGO TAVARES SILVA",
+        "E-mail": "thiago.tavares@estudante.ifgoiano.edu.br"
+    },
+    "19": {
+        "ID": "4877",
+        "Inscrito": "09284398100",
+        "Nome": "OTHONIEL PIRES SOBRINHO GON\u00c7ALVES",
+        "E-mail": "othoniel.pires@estudante.ifgoiano.edu.br"
+    },
+    "20": {
+        "ID": "4879",
+        "Inscrito": "35884984863",
+        "Nome": "RENAN VINICIUS ARANHA",
+        "E-mail": "renan.vinicius@ifgoiano.edu.br"
+    },
+    "21": {
+        "ID": "4880",
+        "Inscrito": "04971415157",
+        "Nome": "ENIA PRISCILA MUNIZ DE OLIVEIRA BORGES",
+        "E-mail": "enia.priscila@estudante.ifgoiano.edu.br"
+    },
+    "22": {
+        "ID": "4882",
+        "Inscrito": "08601421164",
+        "Nome": "ELOISA MOTA BATISTA",
+        "E-mail": "eloisa.mota@estudante.ifgoiano.edu.br"
+    },
+    "23": {
+        "ID": "4883",
+        "Inscrito": "09908800108",
+        "Nome": "KAU\u00c3 ANTONIO FAGUNDES DE OLIVEIRA",
+        "E-mail": "kaua.oliveira@estudante.ifgoiano.edu.br"
+    },
+    "24": {
+        "ID": "4887",
+        "Inscrito": "71332438148",
+        "Nome": "MATHEUS FERNANDES DE SOUSA",
+        "E-mail": "matheus.fernandes1@estudante.ifgoiano.edu.br"
+    },
+    "25": {
+        "ID": "4889",
+        "Inscrito": "04184292194",
+        "Nome": "ANNA BEATRIZ CARLOS DE OLIVEIRA",
+        "E-mail": "anna.carlos@estudante.ifgoiano.edu.br"
+    },
+    "26": {
+        "ID": "4896",
+        "Inscrito": "07214298155",
+        "Nome": "CARLA VITORIA SANTOS DA COSTA",
+        "E-mail": "carla.vitoria@estudante.ifgoiano.edu.br"
+    },
+    "27": {
+        "ID": "4937",
+        "Inscrito": "03814454103",
+        "Nome": "PEDRO DIAS DA SILVA NETO",
+        "E-mail": "pedro.dias2@estudante.ifgoiano.edu.br"
+    },
+    "28": {
+        "ID": "4951",
+        "Inscrito": "06426287180",
+        "Nome": "HELO\u00cdSA DIAS SILVA",
+        "E-mail": "heloisa.silva@estudante.ifgoiano.edu.br"
+    },
+    "29": {
+        "ID": "4982",
+        "Inscrito": "07741768140",
+        "Nome": "MARIA EDUARDA MENDON\u00c7A LAGARES",
+        "E-mail": "maria.mendonca@estudante.ifgoiano.edu.br"
+    },
+    "30": {
+        "ID": "5139",
+        "Inscrito": "01419918109",
+        "Nome": "IZADORA ALVES DE ALMEIDA CARVALHO",
+        "E-mail": "izadoraalves1414@gmail.com"
+    },
+    "31": {
+        "ID": "5147",
+        "Inscrito": "07633930101",
+        "Nome": "ANNA FL\\XC3\\XA1VIA LEITE DE MORAIS",
+        "E-mail": "anna.leite@estudante.ifgoiano.edu.br"
+    },
+    "32": {
+        "ID": "5166",
+        "Inscrito": "10060852119",
+        "Nome": "ANDRESSA MOURA DINIZ",
+        "E-mail": "andressa.moura@estudante.ifgoiano.edu.br"
+    },
+    "33": {
+        "ID": "5360",
+        "Inscrito": "50325139890",
+        "Nome": "ANA BEATRIZ MATOS DA COSTA",
+        "E-mail": "ana.matos1@estudante.ifgoiano.edu.br"
+    },
+    "34": {
+        "ID": "5419",
+        "Inscrito": "06826358123",
+        "Nome": "HELOIZA CEC\\XC3\\XADLIA FERREIRA MARQUES",
+        "E-mail": "heloiza.ferreira@estudante.ifgoiano.edu.br"
+    },
+    "35": {
+        "ID": "5420",
+        "Inscrito": "70705170179",
+        "Nome": "LUIS EDUARDO BORGES DE SOUSA",
+        "E-mail": "luis.borges@estudante.ifgoiano.edu.br"
+    },
+    "36": {
+        "ID": "5421",
+        "Inscrito": "07353047186",
+        "Nome": "BRENNO MULLER VITORINO",
+        "E-mail": "Brennomillervitorino2016@gmail.com"
+    },
+    "37": {
+        "ID": "5704",
+        "Inscrito": "71424543185",
+        "Nome": "LU\u00cdS FERNANDO DA SILVA MENDON\u00c7A",
+        "E-mail": "guzeluislxslz@gmail.com"
+    },
+    "38": {
+        "ID": "5717",
+        "Inscrito": "71715672143",
+        "Nome": "VITH\u00d3RIA GON\u00c7ALVES FREITAS",
+        "E-mail": "vithoriafre123@gmail.com"
+    },
+    "39": {
+        "ID": "5729",
+        "Inscrito": "05552781660",
+        "Nome": "MURIEL SOUSA FERREIRA",
+        "E-mail": "murielsousa8@gmail.com"
+    },
+    "40": {
+        "ID": "5776",
+        "Inscrito": "51344564020",
+        "Nome": "LUCIANA RECART CARDOSO",
+        "E-mail": "luciana.cardoso@ifgoiano.edu.br"
+    },
+    "41": {
+        "ID": "5826",
+        "Inscrito": "04861894140",
+        "Nome": "EDER VELOSO MACHADO",
+        "E-mail": "eder.veloso@estudante.ifgoiano.edu.br"
+    },
+    "42": {
+        "ID": "6095",
+        "Inscrito": "08700421146",
+        "Nome": "HEDER FILHO SILVA SANTOS",
+        "E-mail": "heder.filho@estudante.ifgoiano.edu.br"
+    },
+    "43": {
+        "ID": "6099",
+        "Inscrito": "05341777190",
+        "Nome": "CAIO LUCAS QUIRINO LOPES",
+        "E-mail": "caio.lopes@estudante.ifgoiano.edu.br"
+    },
+    "44": {
+        "ID": "6100",
+        "Inscrito": "04537274174",
+        "Nome": "ANA CLARA RIBEIRO LOPES",
+        "E-mail": "ana.ribeiro2@estudante.ifgoiano.edu.br"
+    },
+    "45": {
+        "ID": "6304",
+        "Inscrito": "09114541106",
+        "Nome": "D\\XC3\\XA9BORAH DE OLIVEIRA ALMEIDA",
+        "E-mail": "deborah.oliveira1@estudante.ifgoiano.edu.br"
+    },
+    "46": {
+        "ID": "6316",
+        "Inscrito": "71221819100",
+        "Nome": "SAMUEL HENRIQUE QUEIROZ PEREIRA",
+        "E-mail": "samuel.henrique1@estudante.ifgoiano.edu.br"
+    },
+    "47": {
+        "ID": "6323",
+        "Inscrito": "07252191141",
+        "Nome": "KARLLA MOREIRA DE OLIVEIRA",
+        "E-mail": "karllamoreira911@gmail.com"
+    },
+    "48": {
+        "ID": "6375",
+        "Inscrito": "06624640103",
+        "Nome": "CLESIO PEREIRA DE CARVALHO FILHO",
+        "E-mail": "clesio.filho@estudante.ifgoiano.edu.br"
+    },
+    "49": {
+        "ID": "6376",
+        "Inscrito": "71383129118",
+        "Nome": "HANY AHMAD OMAR SHAHIN",
+        "E-mail": "hany.ahmad@estudante.ifgoiano.edu.br"
+    },
+    "50": {
+        "ID": "6389",
+        "Inscrito": "03915466190",
+        "Nome": "DAIANE FERNANDA DE SOUSA",
+        "E-mail": "daianefernanda500@gmail.com"
+    },
+    "51": {
+        "ID": "6406",
+        "Inscrito": "70482787147",
+        "Nome": "JOAO VICTOR DA SILVA",
+        "E-mail": "joao.victor3@estudante.ifgoiano.edu.br"
+    },
+    "52": {
+        "ID": "6408",
+        "Inscrito": "07969665160",
+        "Nome": "ANA KAROLINA SILVA DE CARVALHO",
+        "E-mail": "ana.karolina1@estudante.ifgoiano.edu.br"
+    },
+    "53": {
+        "ID": "6414",
+        "Inscrito": "09254306177",
+        "Nome": "ARTHUR",
+        "E-mail": "arthurmamedesborges@gmail.com"
+    },
+    "54": {
+        "ID": "6440",
+        "Inscrito": "09636426180",
+        "Nome": "LUCAS PADOVANI AMARAL",
+        "E-mail": "lucas.amaral@estudante.ifgoiano.edu.br"
+    },
+    "55": {
+        "ID": "6449",
+        "Inscrito": "05449861648",
+        "Nome": "NEWARNEY TORREZAO DA COSTA",
+        "E-mail": "newarney.costa@ifgoiano.edu.br"
+    },
+    "56": {
+        "ID": "6613",
+        "Inscrito": "07463852180",
+        "Nome": "MARCELO AUGUSTO DUMONT",
+        "E-mail": "marcelo.dumont15@gmail.com"
+    },
+    "57": {
+        "ID": "6650",
+        "Inscrito": "04296067109",
+        "Nome": "FABR\u00cdCIO SANCHES PARANHOS",
+        "E-mail": "paranhos.s.f@gmail.com"
+    },
+    "58": {
+        "ID": "6796",
+        "Inscrito": "03918218147",
+        "Nome": "JOS\u00c9 MACHADO RESENDE FILHO",
+        "E-mail": "jose.machado@estudante.ifgoiano.edu.br"
+    },
+    "59": {
+        "ID": "6798",
+        "Inscrito": "06824828114",
+        "Nome": "LEANDRO ANTONIO DA SILVA",
+        "E-mail": "leandro.antonio@estudante.ifgoiano.edu.br"
+    },
+    "60": {
+        "ID": "6826",
+        "Inscrito": "03800413167",
+        "Nome": "PEDRO HENRIQUE ALMEIDA SANTANA",
+        "E-mail": "pedro.santana1@estudante.ifgoiano.edu.br"
+    },
+    "61": {
+        "ID": "6836",
+        "Inscrito": "03441810147",
+        "Nome": "EMYLLAINY KETTELY DE SOUSA DUARTE",
+        "E-mail": "emyllainy.kettely@estudante.ifgoiano.edu.br"
+    },
+    "62": {
+        "ID": "6837",
+        "Inscrito": "08805802166",
+        "Nome": "ANA IZABEL FRADE MOURA ANDRADE",
+        "E-mail": "ana.frade@estudante.ifgoiano.edu.br"
+    },
+    "63": {
+        "ID": "6839",
+        "Inscrito": "83585290159",
+        "Nome": "WESLEY FLAVIO DE MIRANDA",
+        "E-mail": "wesley.miranda@ifgoiano.edu.br"
+    },
+    "64": {
+        "ID": "6841",
+        "Inscrito": "03686292106",
+        "Nome": "EMERSON C\\XC3\\XA9SAR SANTOS FERREIRA FILHO",
+        "E-mail": "emerson.filho@estudante.ifgoiano.edu.br"
+    },
+    "65": {
+        "ID": "6862",
+        "Inscrito": "05668711145",
+        "Nome": "RAYSSA DE ARAJO\u00da MACHADO",
+        "E-mail": "rayssa.machado@estudante.ifgoiano.edu.br"
+    },
+    "66": {
+        "ID": "6924",
+        "Inscrito": "05985910105",
+        "Nome": "KAU\u00c3 DE SOUZA OLIVEIRA",
+        "E-mail": "kaua.souza@estudante.ifgoiano.edu.br"
+    },
+    "67": {
+        "ID": "6925",
+        "Inscrito": "02581605197",
+        "Nome": "THAMER HORBYLON NASCIMENTO",
+        "E-mail": "thamerthn@gmail.com"
+    },
+    "68": {
+        "ID": "6926",
+        "Inscrito": "89835336172",
+        "Nome": "L\u00cdVIA MANCINE",
+        "E-mail": "livia.mancine@ifgoiano.edu.br"
+    },
+    "69": {
+        "ID": "6954",
+        "Inscrito": "06028221147",
+        "Nome": "KAIKE LELES LAMONIER SOARES",
+        "E-mail": "kaike.leles@estudante.ifgoiano.edu.br"
+    },
+    "70": {
+        "ID": "6955",
+        "Inscrito": "71582093180",
+        "Nome": "JO\\XC3\\XA3O VYCTOR ROCHA BUENO",
+        "E-mail": "joao.vyctor@estudante.ifgoiano.edu.br"
+    },
+    "71": {
+        "ID": "6965",
+        "Inscrito": "05062391105",
+        "Nome": "TIAGO OLIVEIRA SILVA",
+        "E-mail": "tiago.rubi@hotmail.com"
+    },
+    "72": {
+        "ID": "7009",
+        "Inscrito": "03389922199",
+        "Nome": "GABRIEL FERREIRA E SILVA",
+        "E-mail": "bielzinho02102006@gmail.com"
+    },
+    "73": {
+        "ID": "7013",
+        "Inscrito": "71702535185",
+        "Nome": "GABRIEL BARBOSA FERREIRA",
+        "E-mail": "gb20212312@gmail.com"
+    },
+    "74": {
+        "ID": "7023",
+        "Inscrito": "05998686195",
+        "Nome": "ALICE BARBOSA DA SILVA",
+        "E-mail": "silvaab04@gmail.com"
+    },
+    "75": {
+        "ID": "7025",
+        "Inscrito": "09379689195",
+        "Nome": "\u00cdTALO HENRIQUE SANTOS GON\u00c7ALVES",
+        "E-mail": "tecnozone2019@gmail.com"
+    },
+    "76": {
+        "ID": "7026",
+        "Inscrito": "71121952178",
+        "Nome": "EDGAR HENRIQUE ALVES MELQU\u00cdADES",
+        "E-mail": "edgarh.alves.m@gmail.com"
+    },
+    "77": {
+        "ID": "7052",
+        "Inscrito": "09113491113",
+        "Nome": "HELLEN CRISTINA DA SILVA LEITE",
+        "E-mail": "hellen.leite@estudante.ifgoiano.edu.br"
+    },
+    "78": {
+        "ID": "7070",
+        "Inscrito": "70773865110",
+        "Nome": "MURILLO SANTOS DE CASTRO",
+        "E-mail": "murillo.castro@estudante.ifgoiano.edu.br"
+    }
+}

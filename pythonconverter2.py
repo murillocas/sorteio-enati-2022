@@ -17,17 +17,30 @@ def make_json(csvFilePath, jsonFilePath):
 
 
 
-csvFilePath = r'introducaoAoLatex.csv'
-jsonFilePath = r'introducaoAoLatex.json'
+csvFilePath = r'introduçãoaNodeJS.csv'
+jsonFilePath = r'introduçãoaNodeJS.json'
 make_json(csvFilePath, jsonFilePath)
 
-csvFilePath = r'amostraDeRobotica.csv'
-jsonFilePath = r'amostraDeRobotica.json'
-make_json(csvFilePath, jsonFilePath)
-csvFilePath = r'entendendoGithub.csv'
-jsonFilePath = r'entendendoGithub.json'
+csvFilePath = r'comoMelhorarSeuNegocio.csv'
+jsonFilePath = r'comoMelhorarSeuNegocio.json'
 make_json(csvFilePath, jsonFilePath)
 
-csvFilePath = r'instalacaoDeSistemasOperacionais.csv'
-jsonFilePath = r'instalacaoDeSistemasOperacionais.json'
+csvFilePath = r'fotografiaAudioVisual.csv'
+jsonFilePath = r'fotografiaAudioVisual.json'
+make_json(csvFilePath, jsonFilePath)
+
+csvFilePath = r'hospedagemDeSite.csv'
+jsonFilePath = r'hospedagemDeSite.json'
+make_json(csvFilePath, jsonFilePath)
+
+csvFilePath = r'recomendaçãoDeMusica.csv'
+jsonFilePath = r'recomendaçãoDeMusica.json'
+make_json(csvFilePath, jsonFilePath)
+
+csvFilePath = r'games.csv'
+jsonFilePath = r'games.json'
+make_json(csvFilePath, jsonFilePath)
+
+csvFilePath = r'porqueFazerCursoDeComputacao.csv'
+jsonFilePath = r'porqueFazerCursoDeComputacao.json'
 make_json(csvFilePath, jsonFilePath)

@@ -21,8 +21,8 @@ csvFilePath = r'introduçãoaNodeJS.csv'
 jsonFilePath = r'introduçãoaNodeJS.json'
 make_json(csvFilePath, jsonFilePath)
 
-csvFilePath = r'comoMelhorarSeuNegócio.csv'
-jsonFilePath = r'comoMelhorarSeuNegócio.json'
+csvFilePath = r'comoMelhorarSeuNegocio.csv'
+jsonFilePath = r'comoMelhorarSeuNegocio.json'
 make_json(csvFilePath, jsonFilePath)
 
 csvFilePath = r'fotografiaAudioVisual.csv'
@@ -41,6 +41,6 @@ csvFilePath = r'games.csv'
 jsonFilePath = r'games.json'
 make_json(csvFilePath, jsonFilePath)
 
-csvFilePath = r'porqueFazerCursoDeComputação.csv'
-jsonFilePath = r'porqueFazerCursoDeComputação.json'
+csvFilePath = r'porqueFazerCursoDeComputacao.csv'
+jsonFilePath = r'porqueFazerCursoDeComputacao.json'
 make_json(csvFilePath, jsonFilePath)
