@@ -4,9 +4,12 @@ const sala = urlParams.get('id');
 
 
 
-var links = ["abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json","introducaoaNodeJS.json","comoMelhorarSeuNegocio.json","fotografiaAudioVisual.json","hospedagemDeSite.json","recomendaçãoDeMusica.json","games.json","porqueFazerCursoDeComputacao.json"] 
+var links = ["abertura.json","introducaoAoLatex.json","instalacaoDeSistemasOperacionais.json","entendendoGithub.json","amostraDeRobotica.json","introducaoaNodeJS.json","comoMelhorarSeuNegocio.json","fotografiaAudioVisual.json","hospedagemDeSite.json","recomendaçãoDeMusica.json","games.json","porqueFazerCursoDeComputacao.json",
 
-var nomelinks = ["Abertura" ,"Introdução ao Latex","Instalação de sistemas Operacionais","Entendendo GitHub","Mostra de robótica","Introdução a Node.JS","Como melhorar seu negócio utilizando redes sociais","Fotografia Audiovisual \"A importância do Olhar na Construção de Narrativas\" ","Hospedagem de sites utilizando Amazon AWS S3","Recomendação de música considerando o estado emocional do usuário","Mundo dos Games","Por que fazer um curso de Computação?"]
+"introducaoDocker.json","cleanCodeLinkedin.json","maratonaProgramacao.json","programacaofuncional.json","brincandoComLEDs.json","BatepapocomEgressos.json","cerimoniadeEncerramento.json"] 
+
+var nomelinks = ["Abertura" ,"Introdução ao Latex","Instalação de sistemas Operacionais","Entendendo GitHub","Mostra de robótica","Introdução a Node.JS","Como melhorar seu negócio utilizando redes sociais","Fotografia Audiovisual \"A importância do Olhar na Construção de Narrativas\" ","Hospedagem de sites utilizando Amazon AWS S3","Recomendação de música considerando o estado emocional do usuário","Mundo dos Games","Por que fazer um curso de Computação?",
+"Introdução ao Docker","Clean Code e Linkedin: melhorando seu código e sua aparência profissional","Maratona de Programação","Introdução a programação funcional em Haskell","Brincando com LEDs","Bate-papo com egressos sobre mercado de trabalho","Cerimônia de Encerramento"]
 const nomeGanhador = document.getElementById('nome-ganhador');
 const botaoSorteio = document.getElementById('sortear');
 const emailGanhador = document.getElementById('email');
